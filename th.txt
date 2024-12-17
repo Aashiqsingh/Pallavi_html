@@ -1,0 +1,22 @@
+html --> Hyper text markup language 
+            - hyper text --> Link 
+
+
+html devlop ?
+- Tim berner's lee 
+
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (Jan , 1997)
+html 4 --> (Dec , 1997)
+html 5 --> 2014 -- 5.2 --> 2017
+
+introduced --> 1993 --> first website --> https://info.cern.ch
+
+use of html ?
+- To create a static structure of website or webpages.
+
+extension : .html / .htm 
+
+html run : browser / client side 
